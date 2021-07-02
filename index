@@ -1,0 +1,130 @@
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<header class="w3-container w3-teal">
+  <h1>Hotline: 0984776411</h1>
+</header>
+
+<img src="I:/tulanh/dienlanh/head.png" alt="Điện lạnh" style="width:100%">
+
+<div class="w3-container">
+  <p>Chúng tôi chuyên nhận sửa chữa điện lạnh tại hà nội, với đội ngũ nhân viên có trên 10 năm tay nghề.
+Được đào tạo chuyện nghiệp, nhiệt tình, vui vẻ và hòa đồng.
+Có đầy đủ qui trình sửa chữa, báo giá và bảo hành theo thỏa thuận.</p>    
+
+  <table class="w3-table w3-bordered w3-striped">
+    <tr class="w3-teal">
+      <th>Tủ lạnh</th>
+      <th>Máy giặt</th>
+      <th>Điều hòa</th>
+    </tr>
+    <tr>
+      <td>0909090909</td>
+      <td>0908080808</td>
+      <td>0908070707</td>
+    </tr>
+    <tr>
+      <td>0909090909</td>
+      <td>0908080808</td>
+      <td>0908070707</td>
+    </tr>
+    <tr>
+      <td>0909090909</td>
+      <td>0908080808</td>
+      <td>0908070707</td>
+    </tr>
+  </table>
+</div>
+
+<div class="w3-row-padding w3-section">
+<!--
+  <div class="w3-half">
+    <div class="w3-card">
+      <img src="I:/tulanh/dienlanh/may_giat.jpg" alt="Tủ Lạnh" style="width:100%">
+      <div class="w3-container">
+        <p>Sửa chữa tủ lạnh tại hà nội.</p>
+        <p>Dịch vụ sửa chữa Tủ lạnh – Máy giặt – Điều hòa theo yêu cầu.
+
+Hiện nay nhu cầu cần sửa chữa thiết bị điện lạnh trong ngày tăng cao, chúng tôi nhận thêm dịch vụ sửa chữa tại nhà cho khách hàng.
+Với đội ngũ chuyên nghiệp có tay nghề cao, được đào tạo bài bản sẽ làm hài lòng những quí khách khó tính nhất.
+
+Tại sao nên gọi chúng tôi?
+Với lợi thế linh kiện thay thế chính hãng, nắm rõ công nghệ sản phẩm.
+
+Lúc nào cần sửa chữa?
+Khi thiết bị của bạn đã hết hạn bảo hành hoặc xảy ra sự cố nằm ngoài điều kiện bảo hành.
+Khi bạn cần sửa ngay trong ngày.
+
+Lỗi cần phải thay linh kiện như:
+Lỗi mất mát, không làm đá tủ lạnh…
+Lỗi không thể sử dụng các phím chức năng trên máy giặt…
+Lỗi điều hòa chạy nhưng không làm lạnh…
+Ngoài ra còn rất nhiều lỗi khác cần phải kiểm tra mới cho ra chính xác nguyên nhân và cách khắc phục, vì vậy những thông tin về lỗi chỉ mang tính chất tham khảo.
+Lời khuyên!
+Các dòng sản phẩm đời mới có công nghệ cao thường được bảo trì, bảo dưỡng tối thiểu 1 năm 1 lần sẽ giúp giảm thiểu chi phí tiêu hao. Ngoài ra sẽ tăng độ bền và tính ổn định cho sản phẩm.
+
+Hiện nay chúng tôi nhận sửa chữa tại các quận nội thành hà nội như: Quận Ba Đình, Đống Đa, Hoàn Kiếm, Hai Bà Trưng, Từ Liêm, Hà Đông, Long Biên, Tây Hồ, Hoàng Mai.
+Liên hệ với chúng tôi.
+Thân!
+
+</p>
+      </div>
+    </div>
+  </div>
+-->
+  <div class="w3-half">
+    <div class="w3-card">
+      <img src="I:/tulanh/dienlanh/may_giat1.jpg" alt="Máy Giặt" style="width:100%">
+      <div class="w3-container">
+        <p>Sửa chữa máy giặt tại nhà hà nội.</p>
+        <p>Dịch vụ sửa chữa Tủ lạnh – Máy giặt – Điều hòa theo yêu cầu.
+
+Hiện nay nhu cầu cần sửa chữa thiết bị điện lạnh trong ngày tăng cao, chúng tôi nhận thêm dịch vụ sửa chữa tại nhà cho khách hàng.
+Với đội ngũ chuyên nghiệp có tay nghề cao, được đào tạo bài bản sẽ làm hài lòng những quí khách khó tính nhất.
+
+Tại sao nên gọi chúng tôi?
+Với lợi thế linh kiện thay thế chính hãng, nắm rõ công nghệ sản phẩm.
+
+Lúc nào cần sửa chữa?
+Khi thiết bị của bạn đã hết hạn bảo hành hoặc xảy ra sự cố nằm ngoài điều kiện bảo hành.
+Khi bạn cần sửa ngay trong ngày.
+
+Lỗi cần phải thay linh kiện như:
+Lỗi mất mát, không làm đá tủ lạnh…
+Lỗi không thể sử dụng các phím chức năng trên máy giặt…
+Lỗi điều hòa chạy nhưng không làm lạnh…
+Ngoài ra còn rất nhiều lỗi khác cần phải kiểm tra mới cho ra chính xác nguyên nhân và cách khắc phục, vì vậy những thông tin về lỗi chỉ mang tính chất tham khảo.
+Lời khuyên!
+Các dòng sản phẩm đời mới có công nghệ cao thường được bảo trì, bảo dưỡng tối thiểu 1 năm 1 lần sẽ giúp giảm thiểu chi phí tiêu hao. Ngoài ra sẽ tăng độ bền và tính ổn định cho sản phẩm.
+
+Hiện nay chúng tôi nhận sửa chữa tại các quận nội thành hà nội như: Quận Ba Đình, Đống Đa, Hoàn Kiếm, Hai Bà Trưng, Từ Liêm, Hà Đông, Long Biên, Tây Hồ, Hoàng Mai.
+Liên hệ với chúng tôi.
+Thân!
+
+</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-half">
+    <div class="w3-card">
+      <img src="I:/tulanh/dienlanh/tu_lanh.jpg" alt="Điều Hòa" style="width:100%">
+      <div class="w3-container">
+        <p>London is the capital city of England.</p>
+        <p>It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<footer class="w3-container w3-teal">
+  <h5>Footer</h5>
+  <p>Footer information goes here</p>
+</footer>
+
+</body>
+</html>
